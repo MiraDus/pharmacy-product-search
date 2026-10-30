@@ -1,0 +1,9 @@
+# data (recreated by 01_parsing.ipynb)
+*.csv
+products.txt
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
